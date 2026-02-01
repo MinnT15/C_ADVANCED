@@ -1,0 +1,32 @@
+# Build files
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
+
+# Compiled binaries
+bin/
+build/
+dist/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
