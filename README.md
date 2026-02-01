@@ -1,20 +1,61 @@
-# C_ADVANCED
+# C Advanced Programming
 
-Dự án học C nâng cao - Quản lý thư viện và các bài tập thực hành.
+This repository contains advanced C programming exercises and projects, focusing on practical implementations and real-world applications.
 
-## Cấu trúc dự án
+## 📚 About
+
+This collection includes various advanced C programming exercises covering:
+- Data structures and algorithms
+- Memory management
+- Modular programming design
+- File I/O operations
+- Project architecture and organization
+
+## 🗂️ Project Structure
 
 ```
 C_ADVANCED/
 └── 1_QUAN_LY_THU_VIEN/
-    ├── QUAN_LY_THU_VIEN/
-    └── QUAN_LY_THU_VIEN_1/
+    ├── QUAN_LY_THU_VIEN/      # Library Management System v1
+    └── QUAN_LY_THU_VIEN_1/    # Library Management System v2
 ```
 
-## Mô tả
+## 🚀 Getting Started
 
-Repository này chứa các dự án và bài tập thực hành về lập trình C nâng cao.
+Each project directory contains its own README with specific build and run instructions.
 
-## Cách sử dụng
+### Building Projects
 
-Chi tiết về cách build và chạy từng dự án có trong thư mục tương ứng.
+Most projects use Makefiles for compilation:
+
+```bash
+cd <project_directory>
+make
+./program_name
+```
+
+### Cleaning Build Files
+
+```bash
+make clean
+```
+
+## 📖 Projects
+
+### Library Management System
+A comprehensive library management application demonstrating:
+- Modular code organization
+- Dynamic memory allocation
+- File persistence
+- User input validation
+- Menu-driven interface
+
+## 🛠️ Requirements
+
+- GCC compiler
+- Make build system
+- Linux/Unix environment (recommended)
+
+## 📝 License
+
+Educational purposes only.
