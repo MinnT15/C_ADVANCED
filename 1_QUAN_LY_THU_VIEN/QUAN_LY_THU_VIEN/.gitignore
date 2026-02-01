@@ -1,0 +1,29 @@
+# Build directories
+bin/
+obj/
+build/
+
+# Compiled files
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# Code::Blocks files
+*.layout
+*.depend
+*.cbp.save
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
