@@ -30,3 +30,10 @@ dist/
 *.su
 *.idb
 *.pdb
+
+# Documentation folders
+**/docs/
+
+# Log files
+*.log
+logs/
