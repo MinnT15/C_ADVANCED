@@ -1,2 +1,4 @@
 [2026-02-02 12:07:08] [INFO] This goes to console AND file
 [2026-02-02 12:07:08] [INFO] Second message to both
+[2026-02-24 11:17:44] [INFO] [test_iteration3.c:17] - This goes to console AND file
+[2026-02-24 11:17:44] [INFO] [test_iteration3.c:18] - Second message to both
